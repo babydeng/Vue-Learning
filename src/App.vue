@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import Exercise from "./components/Exercise1-11.vue";
+import Exercise from "./components/Exercise2-01.vue";
 
 export default {
   components: {
